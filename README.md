@@ -1,6 +1,5 @@
-# org.javacream.training.spring.security
-Samples using Spring Boot and Spring Security
-
+# org.javacream.training.security
+WASP
 ## Durchführung des Seminars
 
 * Referent: Rainer Sawitzki, eMail: training@rainer-sawitzki.de
