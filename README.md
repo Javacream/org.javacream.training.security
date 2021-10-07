@@ -16,5 +16,6 @@ Samples using Spring Boot and Spring Security
 
 * https://owasp.org/Top10/
 * https://owaspsamm.org/
+* https://www.bsimm.com/
   
    
